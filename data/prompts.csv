@@ -1,0 +1,71 @@
+member of the crew of, <subject> is a member of the crew of <object>., Question: <subject> is a member of the crew of what? Answer: <object>., <object>
+basic form of government, The basic form of government of <subject> is <object>., Question: What is the basic form of government of <subject>? Answer: <object>., <object>
+stepparent, <subject> is the stepparent of <object>., Question: <subject> is the stepparent of who? Answer: <object>., <object>
+has contributing factor, <object> is a contributing factor to <subject>., Question: <object> is a contributing factor to What? Answer: <subject>., <subject>
+discoverer or inventor, <subject> is the discoverer or inventor of <object>., Question: Who is the discoverer or inventor of <object>? Answer: <subject>., <subject>
+board member, <subject> serves as a board member of <object>., Question: <subject> serves as a board member of what? Answer: <object>., <object>
+member of military unit, <subject> is a member of the military unit <object>., Question: <subject> is a member of the military unit of what? Answer: <object>., <object>
+editor, <subject> is the editor of <object>., Question: Who is is the editor of <object>? Answer: <subject>., <subject>
+nominated for, <subject> was nominated for <object>., Question: Who was nominated for <object>? Answer: <subject>., <subject>
+presenter, <subject> is the presenter of <object>., Question: Who is the presenter of <object>? Answer: <subject>., <subject>
+replaces, <subject> replaces <object>., Question: Whom did <subject> replace? Answer: <object>., <object>
+chairperson, <subject> serves as the chairperson of <object>., Question: Who serves as the chairperson of <object>? Answer: <subject>., <subject>
+country of citizenship, <subject>'s country of citizenship is <object>., Question: What is <subject>'s country of citizenship? Answer: <object>., <object>
+place of death, <subject>'s place of death is <object>., Question: Where is <subject>'s place of death? Answer: <object>., <object>
+participant in, <subject> was a participant in <object>., Question: Who was a participant in <object>? Answer: <subject>., <subject>
+replaced by, <subject> was replaced by <object>., Question: What was <subject> replaced by? Answer: <object>., <object>
+languages spoken written or signed, <subject> speaks the following languages: <object>., Question: What language does <subject> speaks? Answer: <object>., <object>
+location, The location of <subject> is <object>., Question: Where is the location of <subject>? Answer: <object>., <object>
+language of work or name, The language of <subject>'s work or name is <object>., Question: What is the language of <subject>'s work or name? Answer: <object>., <object>
+position held, <subject> holds the position of <object>., Question: What position does <subject> hold? Answer: <object>., <object>
+country for sport, <subject> represents <object> in sports competitions., Question: Who represents <object> in sports competitions? Answer: <subject>., <subject>
+unmarried partner, <subject> is the unmarried partner of <object>., Question: Who is the unmarried partner of <subject>? Answer: <object>., <object>
+member of sports team, <subject> is a member of the sports team <object>., Question: <subject> is a member of which sports team? Answer: <object>., <object>
+notable work, <subject>'s notable work includes <object>., Question: What is a notable work of <subject>? Answer: <object>., <object>
+residence, <subject>'s residence is in <object>., Question: Where is the residence of <subject>? Answer: <object>., <object>
+located in the administrative territorial entity, <subject> is located in the administrative territorial entity <object>., Question: In which administrative territorial entity is <subject> located? Answer: <object>., <object>
+occupation, <subject>'s occupation is <object>., Question: What is the occupation of <subject>? Answer: <object>., <object>
+educated at, <subject> was educated at <object>., Question: Where was <subject> educated? Answer: <object>., <object>
+cause of death, <subject>'s cause of death was <object>., Question: What was the cause of death of <subject>? Answer: <object>., <object>
+member of political party, <subject> is a member of the political party <object>., Question: Which political party is <subject> a member of? Answer: <object>., <object>
+place of birth, <subject>'s place of birth is <object>., Question: Where is the place of birth of <subject>? Answer: <object>., <object>
+home venue, <subject>'s home venue is <object>., Question: What is the home venue of <subject>? Answer: <object>., <object>
+applies to jurisdiction, <object> applies to the jurisdiction of <subject>., Question: To which jurisdiction does <object> apply? Answer: <subject>., <subject>
+narrative location, <subject> is set in the narrative location of <object>., Question: What is the narrative location of <subject>? Answer: <object>., <object>
+employer, <subject> is employed by <object>., Question: Who is the employer of <subject>? Answer: <object>., <object>
+director, <subject> is the director of <object>., Question: Who is the director of <object>? Answer: <subject>., <subject>
+sports discipline competed in, <subject> competes in the sports discipline of <object>., Question: In which sports discipline does <subject> compete? Answer: <object>., <object>
+platform, <subject> is available on the platform <object>., Question: On which platform is <subject> available? Answer: <object>., <object>
+published in, <subject> was published in <object>., Question: Where was <subject> published? Answer: <object>., <object>
+product or material produced, <subject> produces <object> as a product or material., Question: What product or material does <subject> produce? Answer: <object>., <object>
+character type, <subject> is characterized as a <object> type., Question: What type of character is <subject> characterized as? Answer: <object>., <object>
+parliamentary group, <subject> is a member of the parliamentary group <object>., Question: Which parliamentary group is <subject> a member of? Answer: <object>., <object>
+work location, <subject>'s work location is <object>., Question: What is the work location of <subject>? Answer: <object>., <object>
+student of, <subject> is a student of <object>., Question: Who is <subject> a student of? Answer: <object>., <object>
+used by, <object> is used by <subject>., Question: Who uses <object>? Answer: <subject>., <subject>
+head of government, <subject> is the head of government of <object>., Question: Who is the head of government of <object>? Answer: <subject>., <subject>
+use, <subject> is used for <object>., Question: What is <subject> used for? Answer: <object>., <object>
+academic major, <subject>'s academic major is <object>., Question: What is <subject>'s academic major?Answer: <object>., <object>
+affiliation, <subject> is affiliated with <object>., Question: What is <subject> affiliated with? Answer: <object>., <object>
+victory, <subject> achieved a victory in <object>., Question: In which <object> did <subject> achieve a victory? Answer: <object>., <object>
+conflict, <subject> was involved in the conflict <object>., Question: In which conflict was <subject> involved? Answer: <object>., <object>
+parent organization, <subject> is a part of the parent organization <object>., Question: What parent organization is <subject> a part of? Answer: <object>., <object>
+uses, <subject> uses <object>., Question: What does <subject> use? Answer: <object>., <object>
+student, <subject> is a student at <object>., Question: At which institution is <subject> a student? Answer: <object>., <object>
+place of burial, <subject>'s place of burial is <object>., Question: Where is <subject> buried? Answer: <object>., <object>
+place of marriage, <subject> was married at <object>., Question: Where was <subject> married? Answer: <object>., <object>
+head coach, <subject> is the head coach of <object>., Question: Who is the head coach of <object>? Answer: <subject>., <subject>
+operating area, <subject>'s operating area is <object>., Question: What is the operating area of <subject>? Answer: <object>., <object>
+present in work, <subject> is present in the work <object>., Question: In which work is <subject> present? Answer: <object>., <object>
+interested in, <subject> is interested in <object>., Question: What is <subject> interested in? Answer: <object>., <object>
+conferred by, <object> is conferred by <subject>., Question: Who conferred <object>? Answer: <subject>., <subject>
+musical conductor, <subject> is the musical conductor of <object>., Question: Who is the musical conductor of <object>? Answer: <subject>., <subject>
+elected in, <subject> was elected in <object>., Question: In what was <subject> elected? Answer: <object>., <object>
+parliamentary term, <subject> served during the parliamentary term <object>., Question: During which parliamentary term did <subject> serve? Answer: <object>., <object>
+convicted of, <subject> was convicted of <object>., Question: What was <subject> convicted of? Answer: <object>., <object>
+for work, <subject> is used for the work <object>., Question: What is <subject> used for in terms of work? Answer: <object>., <object>
+manner of death, <subject>'s manner of death was <object>., Question: What was the manner of death of <subject>? Answer: <object>., <object>
+place of detention, <subject> was detained at <object>., Question: Where was <subject> detained? Answer: <object>., <object>
+successful candidate, <subject> was the successful candidate in <object>., Question: In which election or selection was <subject> the successful candidate? Answer: <object>., <object>
+stage reached, <subject> reached the stage <object>., Question: What stage did <subject> reach? Answer: <object>., <object>
+has written for, <subject> has written for <object>., Question: For whom or what has <subject> written? Answer: <object>., <object>
